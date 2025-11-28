@@ -1,0 +1,11 @@
+# x_mm, y_mm
+# First point is (0,0) which should give shoulder=-20, elbow=20
+0,0
+60,40
+90,60
+120,80
+120,120
+90,140
+60,120
+30,100
+0,0
